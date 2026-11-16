@@ -1,1 +1,0 @@
-<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><title>Gmail: Error de descarga</title></head><body>Por razones de seguridad, Gmail no te permite utilizar este tipo de archivo porque infringe la política de Google sobre archivos ejecutables y comprimidos.</body></html>
